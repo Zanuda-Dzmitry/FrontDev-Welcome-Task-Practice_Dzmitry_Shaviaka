@@ -1,0 +1,24 @@
+.App {
+  min-height: 100vh;
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333;
+  --input-border: #ddd;
+  --task-border: #ddd;
+  --input-focus: #4caf50;
+  --btn-bg: #4caf50;
+  --btn-hover: #45a049;
+}
+
+.dark {
+  --bg-color: #1e1e1e;
+  --text-color: #f1f1f1;
+  --input-border: #555;
+  --task-border: #444;
+  --input-focus: #81c784;
+  --btn-bg: #388e3c;
+  --btn-hover: #2e7d32;
+}
